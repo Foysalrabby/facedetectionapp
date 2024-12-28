@@ -1,10 +1,11 @@
-import 'package:facedetectionapp/facedetectionmain.dart';
+
+import 'package:facedetectionapp/splashscreen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
   runApp(
     MaterialApp(
-      home: Facedetection(), // Reference to your home widget
+      home: Slpashscreen(), // Reference to your home widget
 
     ),
   );
